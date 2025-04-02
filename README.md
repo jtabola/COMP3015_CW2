@@ -73,7 +73,8 @@ Watch the detailed explanation here: **[[Video](https://www.youtube.com/watch?v=
 ### Achievements
 - Successfully implemented an interactive OpenGL rendering pipeline.  
 - Real-time particle effects and bloom for enhanced visual effect.
-- Implemented multiple shaders that work seamlessly
+- Implemented multiple shaders that work seamlessly.
+- Tested multiple combinations of lighting to achieve a nice red glow effect from underneath the skull.
 
 ### Improvements
 - Improve particle physics (e.g., wind, turbulence effects, gravity).
