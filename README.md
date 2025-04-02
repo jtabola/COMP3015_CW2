@@ -47,7 +47,7 @@ The globals header stores **`stopRotation`** **bool** which gets toggled, using 
 
 ### Uniqueness and Enhancements
 - Uses a Gaussian blur-based bloom to enhance fire brightness.
-- Customizable shader settings (e.g., light colors, particle speed).
+- Customisable shader settings (e.g., light colors, particle speed).
 - Optimised particle rendering using instancing to improve performance.
 
 ---
@@ -62,7 +62,7 @@ Watch the detailed explanation here: **[Insert actual video link]**
 
 ---
 
-## Evaluation and Potential Improvements
+## Evaluation
 
 ### Achievements
 - Successfully implemented an interactive OpenGL rendering pipeline.  
@@ -70,7 +70,6 @@ Watch the detailed explanation here: **[Insert actual video link]**
 - Implemented multiple shaders that work seamlessly
 
 ### Improvements
-**Possible Enhancements:**
 - Improve particle physics (e.g., wind, turbulence effects, gravity).
 - Add more control options (e.g., skull movement, camera rotate).
 - Implement a **geometry shader** to generate more complex particle effects dynamically.
