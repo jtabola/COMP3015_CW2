@@ -62,8 +62,8 @@ The globals header stores **`stopRotation`** **bool** which gets toggled, using 
 Watch the detailed explanation here: **[[Video](https://www.youtube.com/watch?v=NWI6ZlKoWbc)]**
 
 ### Additional Topics in Video:
-- Deep dive into shader functions.
-- Performance considerations (balancing visual quality and FPS).
+- Deep dive into project structure and shader functions.
+- Visual considerations (particle colour, rotation control, seamless experience).
 - Reflection on development process and potential improvements.
 
 ---
