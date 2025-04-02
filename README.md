@@ -37,6 +37,10 @@ The globals header stores **`stopRotation`** **bool** which gets toggled, using 
 - **`basic_uniform.vert/.frag`** - Main rendering shaders that handles normal and diffuse texture blending as well as light and fog calculations.
 - **`particle.vert/.frag`** - Handles fire particle effects and color blending of particle texture with particle life color gradient.
 - **`finalComposition.vert/.frag`** - Merges bloom and scene rendering.
+
+### Main Components Added Since CW1
+- **Fire Particle Fountain** - Shoots textured particles out of the skull at a specified velocity, with specified lifetime.
+- **Gaussian Blur/Bloom Effect** - Renders scene into frambuffer and creates a blurred version of the scene based on brightness.
   
 ---
 
@@ -55,7 +59,7 @@ The globals header stores **`stopRotation`** **bool** which gets toggled, using 
 ---
 
 ## Video Report Link
-Watch the detailed explanation here: **[Insert actual video link]**
+Watch the detailed explanation here: **[[Video](https://www.youtube.com/watch?v=NWI6ZlKoWbc)]**
 
 ### Additional Topics in Video:
 - Deep dive into shader functions.
