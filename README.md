@@ -5,8 +5,10 @@
 ### How to Open and Control the Software
 
 #### Opening the Executable
-1. Navigate to the "**Release**" folder containing `Project_Template.exe`.
-2. Double-click `Project_Template.exe` to launch the application.
+1. Open the solution folder (COMP3015 CW2)
+2. Navigate to the "**x64**" folder.
+3. Navigate to the "**Release**" folder containing `Project_Template.exe`.
+4. Double-click `Project_Template.exe` to launch the application.
 
 #### User Controls
 - **Pause Rotation:** Hold `Spacebar` to stop object rotation.
