@@ -41,6 +41,7 @@ The globals header stores **`stopRotation`** **bool** which gets toggled, using 
 ### Main Components Added Since CW1
 - **Fire Particle Fountain** - Shoots textured particles out of the skull at a specified velocity, with specified lifetime.
 - **Gaussian Blur/Bloom Effect** - Renders scene into frambuffer and creates a blurred version of the scene based on brightness.
+- **Lighting Enhancement** - Changed the position and colour of the 2 light sources, adding a red underglow.
   
 ---
 
